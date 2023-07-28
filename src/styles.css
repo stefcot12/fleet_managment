@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.success .mdc-snackbar__surface{
+  background: #009302 !important;
+}
+
+.danger .mdc-snackbar__surface{
+  background: #fc0043 !important;
+}
+
+.warning .mdc-snackbar__surface{
+  background: #ff6900 !important;
+}
+
+.info .mdc-snackbar__surface{
+  background: #007bc7 !important;
+}

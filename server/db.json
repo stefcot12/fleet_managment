@@ -1,0 +1,13 @@
+{
+  "login": {
+    "username": "user",
+    "password": "password"
+  },
+  "scadenze": [
+    {
+      "veicolo": "FR741YC",
+      "dataInserimento": "01/01/2024",
+      "dataScadenza": "31/12/2024"
+    }
+  ]
+}
